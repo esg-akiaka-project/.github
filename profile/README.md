@@ -28,8 +28,12 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 ### 프로젝트 설명 
 
 <div>
-
-하루도약 프로젝트에 대한 설명
+	
+#### 하루도약 주요 기능
+1. 성장을 위한 회고, 도약기록 작성하기 <br>
+2. 도약기록에 대한 응원 편지(OpenAI API 활용) <br>
+3. 주간/월간 도약기록 통계 <br>
+4. 함께 도약하는, 서로도약 커뮤니티 <br>
 <br>
 
 </div>
