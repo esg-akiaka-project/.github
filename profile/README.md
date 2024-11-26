@@ -2,7 +2,8 @@
 
 # 하루도약 🍀
 
-![KakaoTalk_20241126_141319996](https://github.com/user-attachments/assets/cc5c4c36-a312-4674-999e-49d7ab9368cb)
+![KakaoTalk_20241126_141452542](https://github.com/user-attachments/assets/5a56ea1a-a3c6-48ff-ac4c-55b49a581c00)
+
 
 <br>
 
