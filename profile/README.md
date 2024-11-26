@@ -1,6 +1,8 @@
 
 
-# 하루도약
+# 하루도약 🍀
+
+![KakaoTalk_20241126_141319996](https://github.com/user-attachments/assets/cc5c4c36-a312-4674-999e-49d7ab9368cb)
 
 <br>
 
@@ -62,9 +64,9 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 
 
 
-|**[박성인](https://github.com/psi7218)**|**[]()**|**[]()**|**[]()**|**[]()**|**[]()**|**[]()**|
+|**[박성인](https://github.com/psi7218)**|**[전윤서](https://github.com/ruiiary)**|**[김정아](https://github.com/rmkim7)**|**[이재혁](https://github.com/James-lee978)**|**[배민재](https://github.com/minjae-bae)**|**[구효경](https://github.com/KOOHYO)**|**[현지수](https://github.com/jisoo615)**|
 | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|[<img src="https://avatars.githubusercontent.com/u/133967948?v=4" width="400">](https://github.com/psi7218)| | |   |  | | |
+|[<img src="https://avatars.githubusercontent.com/u/133967948?v=4" width="400">](https://github.com/psi7218)| [<img src="https://avatars.githubusercontent.com/u/128672819?v=4" width="400">](https://github.com/ruiiary)| [<img src="https://avatars.githubusercontent.com/u/79951570?v=4" width="400">](https://github.com/rmkim7)| [<img src="https://avatars.githubusercontent.com/u/178907328?v=4" width="400">](https://github.com/James-lee978)  |[<img src="https://avatars.githubusercontent.com/u/178907447?v=4" width="400">](https://github.com/minjae-bae)  | [<img src="https://avatars.githubusercontent.com/u/108776113?v=4" width="400">](https://github.com/KOOHYO)|[<img src="https://avatars.githubusercontent.com/u/57720285?v=4" width="400">](https://github.com/jisoo615) |
 |Frontend/팀장|Frontend/발표|Frontend|Frontend|Frontend|Backend|Backend|
 
 
