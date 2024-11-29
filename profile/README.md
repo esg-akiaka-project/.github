@@ -106,6 +106,41 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
  ┣ 📜package.json
  ┗ 📜tsconfig.json
 ```
+### Back
+```
+📦harudoyak
+ ┣ 📂.github
+ ┃ ┣ 📂workflows
+ ┃ ┃ ┗ 📜deploy.yml
+ ┣ 📂gradle
+ ┃ ┣ 📂warpper
+ ┃ ┃  ┣ 📜gradle-wrapper.jar
+ ┃ ┃  ┗ 📜gradle-wrapper.properties
+ ┣ 📂src
+ ┃ ┗ 📂main
+ ┃   ┣ 📂java
+ ┃   ┃ ┗ 📂come.haru.doyak.harudoyak
+ ┃   ┃   ┣ 📂annotation
+ ┃   ┃   ┣ 📂config
+ ┃   ┃   ┣ 📂domain
+ ┃   ┃   ┣ 📂dto
+ ┃   ┃   ┣ 📂entity
+ ┃   ┃   ┣ 📂exception
+ ┃   ┃   ┣ 📂interceptor
+ ┃   ┃   ┣ 📂repository
+ ┃   ┃   ┣ 📂security
+ ┃   ┃   ┣ 📂util
+ ┃   ┃   ┗ 📜HarudoyakApplication
+ ┃   ┗ 📂resources
+ ┃     ┣ 📜application.yaml
+ ┃     ┗ 📜application-secret.yaml
+ ┣ 📜.gitignore
+ ┣ 📜build.gradle
+ ┣ 📜Dockerfile
+ ┣ 📜gradlew
+ ┣ 📜gradlew.bat
+ ┗ 📜setting.gradle
+```
 
 # 🛠 기술 스택
 
