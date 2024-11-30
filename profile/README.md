@@ -216,9 +216,8 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 <summary>ERD</summary>
 <div markdown="1">       
 	
-![erd](https://github.com/Yaenajol/congraduation/assets/133967948/c209135e-410a-48f1-b1ef-f9f8fcd281cb)
+![하루도약 ERD](https://github.com/user-attachments/assets/a740d976-1314-45e9-9c39-c8a840817201)
 </div>
-https://www.notion.so/ERD-2839ae0ee9154a77b3afcc9437c01f10
 </details>
 
 ### API 명세서
