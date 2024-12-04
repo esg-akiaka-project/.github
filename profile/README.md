@@ -174,19 +174,33 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 ### Back
 
 - Intellij : 2023.3.2
-- Spring-boot : 3.2
+- Spring-boot : 3.3.4
 - Java : jdk 17.0.9 2023-10-17 LTS
+- Gradle : 8.10.2
+- Library
+    - jjwt: 0.12.5
+    - spring-batch: 5.1.2
+    - spring-boot-starter-mail: 3.3.4
+    - lombok: 1.18.34
+    - spring-boot-starter-data-jpa: 3.3.4
+    - querydsl: 5.1.0
+    - spring-boot-starter-webflux: 3.3.4
+    - spring-security-crypto: 6.3.3
+- Open API
+    - kakao login
+    - google login
 
 ### DB
 
 - Amazon S3
-- MySQL : 8.0.34
+- Amazon RDS - MySQL : 8.0.34
 
 ### CI/CD
 
 - Docker, Docker-compose
 - NGINX
 - certbot
+- Github Action
   
 ### 협업 툴
 
