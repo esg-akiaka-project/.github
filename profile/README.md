@@ -246,10 +246,10 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 <details>
 <summary>API 문서</summary>
 <div markdown="1">       
-  
-![api](https://github.com/Yaenajol/congraduation/assets/133967948/9fc63413-5085-4932-990b-cf9ab9cafcc0)
+	
+- [포스트맨 도큐멘트](https://documenter.getpostman.com/view/29879046/2sAYBPmaND "포스트맨 도큐멘트로 이동")
+- [노션 페이지](https://www.notion.so/ruiiary/1190df5de2c38132a4dff37fcb252047?v=c09d6b6805cd4cf29a7d238549b83fbc&pvs=4 "노션 api 설계로 이동")
 </div>
-https://www.notion.so/API-b9e2afe99a9f4adfb3ad059cca08a888
 </details>
 
 ### 와이어 프레임
