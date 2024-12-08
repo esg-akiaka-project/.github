@@ -227,7 +227,7 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 
 
 
-# 📝 설계 문서
+# 💾 결과물
 
 
 
@@ -260,7 +260,7 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 
  ![wire](https://github.com/Yaenajol/congraduation/assets/133967948/3df06d55-d6d8-41fe-a2e1-58a100619566)
 </div>
-https://zest-fact-d42.notion.site/98a70919678b40cabaac94fdf2135188
+
 </details>
 
 <br>
@@ -268,5 +268,5 @@ https://zest-fact-d42.notion.site/98a70919678b40cabaac94fdf2135188
 
 
 
-# 💾 결과물
+
 
