@@ -1,4 +1,4 @@
-T
+
 
 # 하루도약 🍀
 
@@ -68,6 +68,13 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 
 
 # 🎥 시연 영상 
+
+
+![doyak_upload-1](https://github.com/user-attachments/assets/33f4c039-9a0b-4b2e-84ba-3ec2062b7a7a)
+
+![seorodoyak-1](https://github.com/user-attachments/assets/098e615c-841f-48de-afea-8e5d78630fe6)
+
+![alarm-1](https://github.com/user-attachments/assets/86286809-02d2-45ba-aa28-5335ccbb1724)
 
 
 <br>
