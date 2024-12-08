@@ -1,4 +1,4 @@
-
+T
 
 # 하루도약 🍀
 
@@ -252,13 +252,16 @@ https://www.notion.so/ruiiary/ESG-SW-PROJECT-1190df5de2c380de90a8d42b237a62ea?pv
 </div>
 </details>
 
-### 와이어 프레임
+### 최종 결과물 PDF
 
 <details>
-<summary>와이어 프레임</summary>
+<summary>최종 결과물 PDF</summary>
 <div markdown="1">       
+[발표용_하루도약.pdf](https://github.com/user-attachments/files/18051773/_.pdf)
+	
+[보고서용_하루도약.pdf](https://github.com/user-attachments/files/18051766/_.pdf)
 
- ![wire](https://github.com/Yaenajol/congraduation/assets/133967948/3df06d55-d6d8-41fe-a2e1-58a100619566)
+
 </div>
 
 </details>
